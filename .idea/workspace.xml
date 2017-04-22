@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="266abb50-8878-474c-be1e-4cb7fdb273ad" name="Default" comment="提交。但是还是有报错">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="266abb50-8878-474c-be1e-4cb7fdb273ad" name="Default" comment="提交。但是还是有报错" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -950,7 +948,7 @@
       <workItem from="1492859738408" duration="1513000" />
       <workItem from="1492861867824" duration="525000" />
       <workItem from="1492862437880" duration="222000" />
-      <workItem from="1492862699100" duration="11117000" />
+      <workItem from="1492862699100" duration="11168000" />
     </task>
     <task id="LOCAL-00001" summary="提交。但是还是有报错">
       <created>1492873761455</created>
@@ -977,7 +975,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14935000" />
+    <option name="totallyTimeSpent" value="14986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
